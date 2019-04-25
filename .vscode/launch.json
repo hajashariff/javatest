@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Emp",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Emp",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveElement",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.RemoveElement",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee1",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Employee1",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee2$Employee1",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Employee2$Employee1",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Child",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Child",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Static",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Static",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dynamic",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Dynamic",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Emp1",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Emp1",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Employee",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleArray",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.SimpleArray",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Comma",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Comma",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Array",
+            "projectName": "qs1"
+        }
+    ]
+}
